@@ -1,43 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- Halaman Beranda -->
   <url>
     <loc>https://ridwanrosyid.github.io/toko-kecantikan/</loc>
-    <lastmod>2024-12-15</lastmod>
+    <lastmod>2024-06-16</lastmod>
     <priority>1.0</priority>
   </url>
+
+  <!-- Halaman Produk -->
   <url>
-    <loc>https://ridwanrosyid.github.io/toko-kecantikan/produk1</loc>
-    <lastmod>2024-12-15</lastmod>
+    <loc>https://ridwanrosyid.github.io/toko-kecantikan/produk</loc>
+    <lastmod>2024-06-16</lastmod>
     <priority>0.8</priority>
   </url>
+
+  <!-- Halaman Tentang Kami -->
   <url>
-    <loc>https://ridwanrosyid.github.io/toko-kecantikan/produk2</loc>
-    <lastmod>2024-12-15</lastmod>
-    <priority>0.8</priority>
+    <loc>https://ridwanrosyid.github.io/toko-kecantikan/tentang</loc>
+    <lastmod>2024-06-16</lastmod>
+    <priority>0.7</priority>
   </url>
+
+  <!-- Halaman Kontak -->
   <url>
-    <loc>https://ridwanrosyid.github.io/toko-kecantikan/produk3</loc>
-    <lastmod>2024-12-15</lastmod>
-    <priority>0.8</priority>
+    <loc>https://ridwanrosyid.github.io/toko-kecantikan/kontak</loc>
+    <lastmod>2024-06-16</lastmod>
+    <priority>0.6</priority>
   </url>
-  <url>
-    <loc>https://ridwanrosyid.github.io/toko-kecantikan/produk4</loc>
-    <lastmod>2024-12-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://ridwanrosyid.github.io/toko-kecantikan/produk5</loc>
-    <lastmod>2024-12-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://ridwanrosyid.github.io/toko-kecantikan/produk6</loc>
-    <lastmod>2024-12-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://ridwanrosyid.github.io/toko-kecantikan/produk7</loc>
-    <lastmod>2024-12-15</lastmod>
-    <priority>0.8</priority>
-  </url>
+
 </urlset>
